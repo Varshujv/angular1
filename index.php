@@ -5,10 +5,12 @@
 <script src="app/route.js"></script>
 <body bgcolor='blue'></body>
 <body ng-app="sample app">
+
 <a href="#!home">Home</a>
 <a href="#!about">About</a>
 <a href="#!contact">Contact</a>
 <div class="ng-view"></div><br>
 <footer>Click here</footer>
+
 </body>
 </html>
